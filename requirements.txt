@@ -1,0 +1,13 @@
+ipykernel
+langchain
+langchain_community
+langchain_core
+langchain_huggingface
+pydantic
+bs4
+langchain_groq
+pypdf
+dotenv
+sentence-transformers
+langchain_chroma
+langchain_ollama
