@@ -8,6 +8,10 @@ bs4
 langchain_groq
 pypdf
 dotenv
-sentence-transformers
+sentence-transformers<5
 langchain_chroma
 langchain_ollama
+torch<2.11
+transformers<5.0
+langchain_docling
+accelerate
