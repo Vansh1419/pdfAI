@@ -10,4 +10,5 @@ wheels/
 .venv
 .env
 
-pdfs/Tower_1.pdf
+pdfs
+/milestone_1/chroma_db
