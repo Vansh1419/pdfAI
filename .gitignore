@@ -10,5 +10,8 @@ wheels/
 .venv
 .env
 
-pdfs
-/milestone_1/chroma_db
+pocs/pdfs
+pocs/milestone_1/chroma_db
+pocs/sessions.json
+chroma_db
+data
