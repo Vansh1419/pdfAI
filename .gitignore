@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+pdfs
+/milestone_1/chroma_db
